@@ -1,114 +1,92 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/845767/218793207-a84a8c9e-d147-40a8-839b-f2b5d8b1ccba.png" width=450px alt="Mathesar logo"/>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/845767/218793207-a84a8c9e-d147-40a8-839b-f2b5d8b1ccba.png"><img src="https://user-images.githubusercontent.com/845767/218793207-a84a8c9e-d147-40a8-839b-f2b5d8b1ccba.png" width="450px" alt="马塞萨标志" style="max-width: 100%;"></a>
 </p>
-<p align="center"><b>An intuitive UI for managing data, for users of all technical skill levels. Built on Postgres.</b></p>
-<p align="center">
-    <img alt="License" src="https://img.shields.io/github/license/mathesar-foundation/mathesar">
-    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/mathesar-foundation/mathesar">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/mathesar-foundation/mathesar">
-    <img alt="Codecov" src="https://img.shields.io/codecov/c/github/mathesar-foundation/mathesar">
+<p align="center" dir="auto"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于管理数据的直观 UI，适合所有技术技能水平的用户。</font><font style="vertical-align: inherit;">基于 Postgres 构建。</font></font></b></p>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0cd8cf9b3b8e122716507b623e15632876c5f8ddbb69f9ba307450cfa35cb2d3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d617468657361722d666f756e646174696f6e2f6d61746865736172"><img alt="执照" src="https://camo.githubusercontent.com/0cd8cf9b3b8e122716507b623e15632876c5f8ddbb69f9ba307450cfa35cb2d3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d617468657361722d666f756e646174696f6e2f6d61746865736172" data-canonical-src="https://img.shields.io/github/license/mathesar-foundation/mathesar" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/410dcc76bfe76948643230c4d3e81b7dbba384a0748d9d757ef73dddd17e839c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d636c6f7365642f6d617468657361722d666f756e646174696f6e2f6d61746865736172"><img alt="GitHub 已关闭问题" src="https://camo.githubusercontent.com/410dcc76bfe76948643230c4d3e81b7dbba384a0748d9d757ef73dddd17e839c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d636c6f7365642f6d617468657361722d666f756e646174696f6e2f6d61746865736172" data-canonical-src="https://img.shields.io/github/issues-closed/mathesar-foundation/mathesar" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f4556789d2fef201b4b6096e31ec47bc2a0c941acc0bdaf813a105e3deaf7a10/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f772f6d617468657361722d666f756e646174696f6e2f6d61746865736172"><img alt="GitHub 提交活动" src="https://camo.githubusercontent.com/f4556789d2fef201b4b6096e31ec47bc2a0c941acc0bdaf813a105e3deaf7a10/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f772f6d617468657361722d666f756e646174696f6e2f6d61746865736172" data-canonical-src="https://img.shields.io/github/commit-activity/w/mathesar-foundation/mathesar" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3b67668e9f855e48f8d0965ad98d36bf97ec93300ccf1101a5a39a367d346416/68747470733a2f2f696d672e736869656c64732e696f2f636f6465636f762f632f6769746875622f6d617468657361722d666f756e646174696f6e2f6d61746865736172"><img alt="代码科夫" src="https://camo.githubusercontent.com/3b67668e9f855e48f8d0965ad98d36bf97ec93300ccf1101a5a39a367d346416/68747470733a2f2f696d672e736869656c64732e696f2f636f6465636f762f632f6769746875622f6d617468657361722d666f756e646174696f6e2f6d61746865736172" data-canonical-src="https://img.shields.io/codecov/c/github/mathesar-foundation/mathesar" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-  <a href="https://mathesar.org?ref=github-readme" target="_blank">Website</a> • <a href="https://docs.mathesar.org?ref=github-readme" target="_blank">Docs</a> • <a href="https://demo.mathesar.org?ref=github-readme" target="_blank">Live Demo</a> • <a href="https://wiki.mathesar.org/en/community/matrix" target="_blank">Matrix (chat)</a> • <a href="https://discord.gg/enaKqGn5xx" target="_blank">Discord</a> • <a href="https://wiki.mathesar.org/" target="_blank">Wiki</a>
+<p align="center" dir="auto">
+  <a href="https://mathesar.org?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•</font></font><a href="https://docs.mathesar.org?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•</font></font><a href="https://demo.mathesar.org?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现场演示</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">• </font></font><a href="https://wiki.mathesar.org/en/community/matrix" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matrix（聊天）</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> • </font></font><a href="https://discord.gg/enaKqGn5xx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> • </font></font><a href="https://wiki.mathesar.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wiki</font></font></a>
 </p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">马塞萨</font></font></h1><a id="user-content-mathesar" class="anchor-element" aria-label="永久链接：马瑟萨" href="#mathesar"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mathesar 是一个简单的开源工具，</font><font style="vertical-align: inherit;">为 PostgreSQL</font><strong><font style="vertical-align: inherit;">数据库提供</font></strong></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">类似电子表格的界面</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">我们基于网络的界面可帮助您和您的协作者更独立、更舒适地处理数据 -</font><strong><font style="vertical-align: inherit;">无需任何技术技能</font></strong><font style="vertical-align: inherit;">。</font></font><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以使用 Mathesar 构建</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据模型</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">输入数据</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，甚至</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建报告</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">您托管自己的 Mathesar 安装，这为您提供了数据的所有权、隐私和控制权。</font></font></p>
 
 
-# Mathesar
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></strong></p>
+<ul dir="auto">
+<li><a href="#sponsors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赞助商</font></font></a></li>
+<li><a href="#status"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地位</font></font></a></li>
+<li><a href="#join-our-community"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入我们的社区！</font></font></a></li>
+<li><a href="#screenshots"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图</font></font></a></li>
+<li><a href="#live-demo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现场演示</font></font></a></li>
+<li><a href="#features"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></a></li>
+<li><a href="#self-hosting"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管</font></font></a></li>
+<li><a href="#our-motivation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的动力</font></font></a></li>
+<li><a href="#contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a></li>
+<li><a href="#bugs-and-troubleshooting"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误和故障排除</font></font></a></li>
+<li><a href="#license"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></a></li>
+</ul>
 
-Mathesar is a straightforward open source tool that provides a **spreadsheet-like interface** to a PostgreSQL **database**. Our web-based interface helps you and your collaborators work with data more independently and comfortably – **no technical skills needed**.
-
-You can use Mathesar to build **data models**, **enter data**, and even **build reports**. You host your own Mathesar installation, which gives you ownership, privacy, and control of your data.
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [Sponsors](#sponsors)
-- [Status](#status)
-- [Join our community!](#join-our-community)
-- [Screenshots](#screenshots)
-- [Live Demo](#live-demo)
-- [Features](#features)
-- [Self-hosting](#self-hosting)
-- [Our motivation](#our-motivation)
-- [Contributing](#contributing)
-- [Bugs and troubleshooting](#bugs-and-troubleshooting)
-- [License](#license)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Sponsors
-Our top sponsors! Become a sponsor on [GitHub](https://github.com/sponsors/mathesar-foundation) or [Open Collective](https://opencollective.com/mathesar).
-
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赞助商</font></font></h2><a id="user-content-sponsors" class="anchor-element" aria-label="永久链接：赞助商" href="#sponsors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的顶级赞助商！</font></font><a href="https://github.com/sponsors/mathesar-foundation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为GitHub</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://opencollective.com/mathesar" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Open Collective</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的赞助商</font><font style="vertical-align: inherit;">。</font></font></p>
 <table>
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%">
-          <a href="https://www.thingylabs.io/">
-              <img src="https://user-images.githubusercontent.com/287034/226116547-cd28e16a-4c89-4a01-bc98-5a19b02ab1b2.png" width="100px;" alt="Thingylabs GmbH"/>
-              <br />
-              <sub><b>Thingylabs GmbH</b></sub>
+          <a href="https://www.thingylabs.io/" rel="nofollow">
+              <img src="https://user-images.githubusercontent.com/287034/226116547-cd28e16a-4c89-4a01-bc98-5a19b02ab1b2.png" width="100px;" alt="Thingylabs有限公司" style="max-width: 100%;">
+              <br>
+              <sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Thingylabs有限公司</font></font></b></sub>
           </a>
-          <br />
+          <br>
       </td>
     </tr>
   </tbody>
 </table>
-
-## Status
-- [x] **Public Alpha**: You can install and deploy Mathesar on your server. Go easy on us!
-- [ ] **Public Beta**: Stable and feature-rich enough to implement in production
-- [ ] **Public**: Production-ready
-
-We are currently in the **public alpha** stage.
-
-## Join our community!
-The Mathesar team is on [Matrix](https://wiki.mathesar.org/en/community/matrix) (chat service). We also have [mailing lists](https://wiki.mathesar.org/en/community/mailing-lists) and the core team discusses day-to-day work on our developer mailing list. 
-
-## Screenshots
-
-![crm-table](https://user-images.githubusercontent.com/287034/220773466-1790a826-923e-47a8-8f7e-1edb67970a16.png)
-
-![authors-filter](https://user-images.githubusercontent.com/287034/220773378-78e05984-5f0f-4ed2-9682-b75ca0f6867c.png)
-
-![talks-with-topics](https://user-images.githubusercontent.com/287034/220773633-0a4ff810-a1e1-476f-b5b0-2667ba97f07a.png)
-
-![author-record](https://user-images.githubusercontent.com/287034/220773738-a3fd0dda-cf16-45ed-a8ef-4e40647bb074.png)
-
-![arxiv-schema](https://user-images.githubusercontent.com/287034/220773323-bd6ffb31-835b-4df5-981e-dae6341d42bb.png)
-
-![db-page](https://user-images.githubusercontent.com/287034/220773522-8c1c1483-2389-4f5e-83b2-e54836983035.png)  
-
-## Live Demo
-Check out a [live demo of Mathesar here](https://demo.mathesar.org)!
-
-## Features
-- **Built on Postgres**: Connect to an existing Postgres database or set one up from scratch.
-- **Set up your data models**: Easily create and update Postgres schemas and tables.
-- **Data entry**: Use our spreadsheet-like interface to view, create, update, and delete table records.
-- **Filter, sort, and group**: Quickly slice your data in different ways.
-- **Query builder**: Use our Data Explorer to build queries without knowing anything about SQL or joins.
-- **Schema migrations**: Transfer columns between tables in two clicks.
-- **Uses Postgres features**: Mathesar uses and manipulates Postgres schemas, primary keys, foreign keys, constraints and data types. e.g. "Links" in the UI are foreign keys in the database.
-- **Custom data types**: Custom data types for emails and URLs (more coming soon), validated at the database level.
-- **Basic access control**: Users can have Viewer (read-only), Editor (can only edit data, but not data structure), or Manager (can edit both data and its structure) roles.
-
-## Self-hosting
-Please see [our documentation](https://docs.mathesar.org/) for instructions on installing Mathesar on your own server.
-
-## Our motivation
-Mathesar is a non-profit project. Our goal is to make understanding and working with data easy for everyone.
-
-Databases have been around for a long time and solve common data problems really well. But working with databases often requires custom software. Or complex tooling that people struggle to get their heads around.
-
-We want to make existing database functionality more accessible, for users of all technical skill levels.
-
-## Contributing
-We actively encourage contribution! Get started by reading our [Contributor Guide](./CONTRIBUTING.md).
-
-## Bugs and troubleshooting
-If you run into problems, refer to our [troubleshooting guide](./TROUBLESHOOTING.md).
-
-## License
-Mathesar is open source under the GPLv3 license - see [LICENSE](LICENSE). It also contains derivatives of third-party open source modules licensed under the MIT license. See the list and respective licenses in [THIRDPARTY](THIRDPARTY).
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地位</font></font></h2><a id="user-content-status" class="anchor-element" aria-label="永久链接：状态" href="#status"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Public Alpha</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：您可以在您的服务器上安装和部署 Mathesar。</font><font style="vertical-align: inherit;">对我们放轻松吧！</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公开测试版</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：稳定且功能丰富，足以在生产中实施</font></font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公共</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：生产就绪</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们目前处于</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公共 alpha</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阶段。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入我们的社区！</font></font></h2><a id="user-content-join-our-community" class="anchor-element" aria-label="永久链接：加入我们的社区！" href="#join-our-community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mathesar 团队使用</font></font><a href="https://wiki.mathesar.org/en/community/matrix" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matrix</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（聊天服务）。</font><font style="vertical-align: inherit;">我们还有</font></font><a href="https://wiki.mathesar.org/en/community/mailing-lists" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">邮件列表</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，核心团队在我们的开发人员邮件列表上讨论日常工作。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图</font></font></h2><a id="user-content-screenshots" class="anchor-element" aria-label="永久链接：屏幕截图" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/287034/220773466-1790a826-923e-47a8-8f7e-1edb67970a16.png"><img src="https://user-images.githubusercontent.com/287034/220773466-1790a826-923e-47a8-8f7e-1edb67970a16.png" alt="crm 表" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/287034/220773378-78e05984-5f0f-4ed2-9682-b75ca0f6867c.png"><img src="https://user-images.githubusercontent.com/287034/220773378-78e05984-5f0f-4ed2-9682-b75ca0f6867c.png" alt="作者过滤器" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/287034/220773633-0a4ff810-a1e1-476f-b5b0-2667ba97f07a.png"><img src="https://user-images.githubusercontent.com/287034/220773633-0a4ff810-a1e1-476f-b5b0-2667ba97f07a.png" alt="话题谈话" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/287034/220773738-a3fd0dda-cf16-45ed-a8ef-4e40647bb074.png"><img src="https://user-images.githubusercontent.com/287034/220773738-a3fd0dda-cf16-45ed-a8ef-4e40647bb074.png" alt="作者记录" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/287034/220773323-bd6ffb31-835b-4df5-981e-dae6341d42bb.png"><img src="https://user-images.githubusercontent.com/287034/220773323-bd6ffb31-835b-4df5-981e-dae6341d42bb.png" alt="arxiv-模式" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/287034/220773522-8c1c1483-2389-4f5e-83b2-e54836983035.png"><img src="https://user-images.githubusercontent.com/287034/220773522-8c1c1483-2389-4f5e-83b2-e54836983035.png" alt="数据库页" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现场演示</font></font></h2><a id="user-content-live-demo" class="anchor-element" aria-label="永久链接：现场演示" href="#live-demo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这里查看</font></font><a href="https://demo.mathesar.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mathesar 的现场演示</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">！</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2><a id="user-content-features" class="anchor-element" aria-label="永久链接：特点" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于 Postgres 构建</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：连接到现有的 Postgres 数据库或从头开始设置。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置数据模型</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：轻松创建和更新 Postgres 架构和表。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据输入</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：使用我们类似电子表格的界面来查看、创建、更新和删除表记录。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">过滤、排序和分组</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：以不同的方式快速对数据进行切片。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查询生成器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：使用我们的数据资源管理器来构建查询，而无需了解有关 SQL 或联接的任何信息。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">架构迁移</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：只需单击两次即可在表之间传输列。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Postgres 功能</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Mathesar 使用和操作 Postgres 模式、主键、外键、约束和数据类型。</font><font style="vertical-align: inherit;">例如，UI 中的“链接”是数据库中的外键。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自定义数据类型</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：电子邮件和 URL 的自定义数据类型（即将推出更多），在数据库级别进行验证。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基本访问控制</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：用户可以具有查看者（只读）、编辑者（只能编辑数据，但不能编辑数据结构）或管理者（可以编辑数据及其结构）角色。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管</font></font></h2><a id="user-content-self-hosting" class="anchor-element" aria-label="永久链接：自托管" href="#self-hosting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://docs.mathesar.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的文档，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解有关在您自己的服务器上安装 Mathesar 的说明。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的动力</font></font></h2><a id="user-content-our-motivation" class="anchor-element" aria-label="永久链接：我们的动机" href="#our-motivation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mathesar 是一个非盈利项目。</font><font style="vertical-align: inherit;">我们的目标是让每个人都能轻松理解和使用数据。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库已经存在很长时间了，并且很好地解决了常见的数据问题。</font><font style="vertical-align: inherit;">但使用数据库通常需要定制软件。</font><font style="vertical-align: inherit;">或者是人们难以理解的复杂工具。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们希望让所有技术水平的用户都能更轻松地访问现有数据库功能。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor-element" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们积极鼓励贡献！</font><font style="vertical-align: inherit;">首先阅读我们的</font></font><a href="/mathesar-foundation/mathesar/blob/develop/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误和故障排除</font></font></h2><a id="user-content-bugs-and-troubleshooting" class="anchor-element" aria-label="永久链接：错误和故障排除" href="#bugs-and-troubleshooting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您遇到问题，请参阅我们的</font></font><a href="/mathesar-foundation/mathesar/blob/develop/TROUBLESHOOTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">故障排除指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor-element" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mathesar 是在 GPLv3 许可证下开源的 - 请参阅</font></font><a href="/mathesar-foundation/mathesar/blob/develop/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">它还包含根据 MIT 许可证授权的第三方开源模块的衍生产品。</font></font><a href="/mathesar-foundation/mathesar/blob/develop/THIRDPARTY"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅第三方</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中的列表和相应许可证</font><font style="vertical-align: inherit;">。</font></font></p>
+</article></div>
